@@ -90,7 +90,6 @@ class WeatherViewController: UIViewController , CLLocationManagerDelegate {
         weatherDataModel.weatherIconName = weatherDataModel.updateWeatherIcon(condition: weatherDataModel.condition)
             
         updateUIWithWeatherData()
-            
         } else {
             cityLabel.text = "Weather Unavaliable"
         }
