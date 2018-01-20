@@ -7,6 +7,3 @@ Clima is an iOS application that is able to provide current weather information 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/Clima.gif)
 
 
-This project is a part of [The App Brewery](https://www.appbrewery.co) 📱 Swift and iOS Development course. Changes have been made to reflect personal touch and preference.
-
-
